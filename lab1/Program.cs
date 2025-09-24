@@ -1,2 +1,3 @@
 using System;
-Console.WriteLine("Hello :3");
+Console.WriteLine("Hello world!");
+Console.ReadKey(); // <- эта строчка
